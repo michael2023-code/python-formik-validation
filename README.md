@@ -285,7 +285,7 @@ export const SignupForm = () => {
                 <tr key={i}>
                   <td>{customer.name}</td>
                   <td>{customer.email}</td>
-                  <td>{customer.age}</td>
+                  <td>{customer.age}</td>n
                 </tr>
               </>
             ))
